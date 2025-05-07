@@ -48,3 +48,6 @@ options.txt
 servers.dat
 servers.dat_old
 instance.json
+usercache.json
+usernamecache.json
+crash-reports/
