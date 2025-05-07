@@ -15,7 +15,6 @@
 *.dmg
 *.gz
 *.iso
-*.jar
 *.rar
 *.tar
 *.zip
@@ -37,6 +36,7 @@ ehthumbs.db
 Thumbs.db
 
 # Player Specific Files #
+##########################
 Logs
 config/
 saves
@@ -44,3 +44,7 @@ schematics
 thingpacks
 xaero
 XaeroWaypoints
+options.txt
+servers.dat
+servers.dat_old
+instance.json
