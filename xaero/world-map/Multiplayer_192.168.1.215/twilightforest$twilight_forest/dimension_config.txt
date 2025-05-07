@@ -1,0 +1,4 @@
+MWName:mw$-1792489578:Map 1
+MWName:mw$default:Default
+caveModeType:1
+dimensionTypeId:twilightforest:twilight_forest_type

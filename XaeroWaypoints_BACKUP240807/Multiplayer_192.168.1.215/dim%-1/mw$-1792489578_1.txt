@@ -1,0 +1,6 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Portal Entrance:P:-14:78:31:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bastion:B:77:75:76:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Nether Tunnel:N:-8:122:580:5:false:0:gui.xaero_default:false:0:0:false
