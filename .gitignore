@@ -39,11 +39,11 @@ Thumbs.db
 ##########################
 Logs
 config/
-saves
-schematics
-thingpacks
-xaero
-XaeroWaypoints
+saves/
+schematics/
+thingpacks/
+xaero/
+XaeroWaypoints_BACKUP240807/
 options.txt
 servers.dat
 servers.dat_old
